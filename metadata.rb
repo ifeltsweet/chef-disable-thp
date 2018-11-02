@@ -4,7 +4,7 @@ maintainer_email 'denis.pshenov@gmail.com'
 license 'Apache-2.0'
 description 'Disables Transparent Huge Pages'
 long_description 'Disables Transparent Huge Pages'
-version '0.1.0'
+version '0.1.1'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 issues_url 'https://github.com/ifeltsweet/chef-disable-thp/issues'
